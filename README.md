@@ -1,3 +1,12 @@
+Learnng how to createbranches.
+
+
+
+
+
+
+
+
 # functions-triggers-bindings-example
 
 Repo containing an example Azure Functions project that implements different types of input and output Bindings.
